@@ -1,5 +1,5 @@
 all:
-	g++ main.cpp -o student_grades_histogram
+	g++ main.cpp -o quiz_histogram
 
 clean:
-	rm student_grades_histogram
+	rm quiz_histogram
